@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://ava5.androidfilehost.com/dl/cwShkoyurBrLZix24yhdQw/1638445592/7161016148664849610/Infinix_X683_firmware.zip
+  ROM_URL: https://mva1.uploads.androidfilehost.com/dl/f2KYAzWEqaLb_qRn1dtsDw/1639050282/17825722713688244357/atom_firmware.zip
 
 jobs:
   build:
