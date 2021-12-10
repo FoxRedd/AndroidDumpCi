@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://sg.samcloudd.gq/v2/IxJCDiMnLwIvOy8EEhYzIBcnPEAPNh4lFzssIDs2ByAzMQgxOzEUQDMQMCMBOyw/LxEfMwM/MB4eJCkUAzAFMS4WKR0NQDMbDTYhCzQvLwQDOzMcLhcUDjInLzk7Gwc9OzEFBi4nPgg8OEEMAzA+Bi4ROTEyJx8GMwcgMQE4LBsvAAgwDwg+Oi5ABkIBAzZAAQMjOSMkDQAeFjYwCRcjMTwlQTAhFjMpPAAGAiMRHjA0JzAOIycvLR4DIAwyAB82IyUhHzwABQAJEQc5NBsjKyEAPg4hAAYsLjgeLDQRHg4yJTMsMiUNKzwAPh8mGwYMMi8jAB44IR4eAy48DwsuHDQ7QTkuB0EePAtBHDU4M0ImBx4pMhchQAkRHg4yLz4DAxIwHiMWCDAzMD5BAyweJgMDIgYeOy48Fwc7MQ0sLzojLD4RPBcjKw8RLDkmGwYtFxYjMQ82B0AvLDMMHgdBBA0vQRAhEQcMCQM7PzIwLgABFx8lAQdBGzgkB0ImFggAIyQ0Px4WDR0jCyMT
+  ROM_URL: https://mva1.uploads.androidfilehost.com/dl/CAzX-uB0R1qX6nj8smE1TA/1639238290/17825722713688246336/Infinix_Smart_HD_2021_X612B_MT6761_V023_210115.zip
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,8 +29,8 @@ jobs:
          working-directory: phoenix_firmware_dumper
          run: |
               sudo bash setup.sh
-              git config --global user.name "Sushrut1101"
-              git config --global user.email "guptasushrut@gmail.com"
+              git config --global user.name "FoxRedd"
+              git config --global user.email "foxr37746@gmail.com"
 
        - name: Setup Config envs
          working-directory: phoenix_firmware_dumper
