@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://mva1.uploads.androidfilehost.com/dl/CAzX-uB0R1qX6nj8smE1TA/1639238290/17825722713688246336/Infinix_Smart_HD_2021_X612B_MT6761_V023_210115.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RKSCNXM/camellia_images_V12.5.3.0.RKSCNXM_20211111.0000.00_11.0_cn_39b7a7478c.tgz
 
 jobs:
   build:
