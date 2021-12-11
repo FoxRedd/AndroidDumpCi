@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://download2281.mediafire.com/0z2h65p5ybcg/8ov9f2wynks8ipx/INFINIX-HOT-10-PLAY-X688B-H659ABCEFGHI-Q-GL-211111V506-RepairMyMobile.zip
+  ROM_URL: https://mva1.uploads.androidfilehost.com/dl/GBPFlFVC-iFCVYz122cclA/1639294786/17825722713688247146/INFINIX-HOT-10-PLAY-X688B-H659ABCEFGHI-Q-GL-211111V506.zip
 
 jobs:
   build:
