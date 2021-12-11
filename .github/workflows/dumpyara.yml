@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RKSCNXM/camellia_images_V12.5.3.0.RKSCNXM_20211111.0000.00_11.0_cn_39b7a7478c.tgz
+  ROM_URL: https://download2281.mediafire.com/0z2h65p5ybcg/8ov9f2wynks8ipx/INFINIX-HOT-10-PLAY-X688B-H659ABCEFGHI-Q-GL-211111V506-RepairMyMobile.zip
 
 jobs:
   build:
