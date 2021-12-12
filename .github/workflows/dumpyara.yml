@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://bigota.d.miui.com/21.11.24/miui_CAMELLIA_21.11.24_e92e1b94a6_11.0.zip
+  ROM_URL: http://download1072.mediafire.com/poomxxyvg09g/gngg7pq5ozcform/Flare_S8_Pro_MT6765_EMMC_2020_01_12_17_06%29.zip).zip/file
 
 jobs:
   build:
